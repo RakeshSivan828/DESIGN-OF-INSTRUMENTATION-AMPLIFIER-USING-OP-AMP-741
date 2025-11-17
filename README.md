@@ -32,10 +32,18 @@ Vo = RF/R1[1+ 2R’/R][V2-V1]
 
 # TABULATION:
 
+<img width="1027" height="429" alt="image" src="https://github.com/user-attachments/assets/c0eb6a90-c581-4e1a-8a84-4f2fd0fef72c" />
+
+
 # THEORETICAL CALCULATION:
+
+<img width="489" height="827" alt="image" src="https://github.com/user-attachments/assets/9dd0a545-5766-4038-8224-e339b43a69e4" />
+<img width="537" height="409" alt="image" src="https://github.com/user-attachments/assets/e9bf5d3a-f0c2-4827-b7ad-529f83d13aac" />
 
 # GRAPH
 
+![WhatsApp Image 2025-11-18 at 01 06 14_e4f4c243](https://github.com/user-attachments/assets/4ca45b05-4b34-4c49-8fd0-7db9ac780c1b)
+
+
 # RESULT
-
-
+Thus , An instrumentation amplifier is constructed and verified successfully.
